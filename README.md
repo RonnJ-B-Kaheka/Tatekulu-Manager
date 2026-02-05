@@ -1,2 +1,2 @@
 # Tatekulu Manager
-Your online Barbershop
+Your Barbershop App
